@@ -1,0 +1,22 @@
+.container1 {
+    display: flex;
+    background-color: black;
+    color:white;
+    padding: 30px;
+    justify-content: center;
+}
+
+.container2 {
+    display: flex;
+    background-color: red;
+    padding: 45px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.container3 {
+    display: flex;
+    background-color: green;
+    padding: 40px;
+    align-items: flex-end;
+}
